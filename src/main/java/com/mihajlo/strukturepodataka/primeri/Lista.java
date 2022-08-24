@@ -12,7 +12,7 @@ class Lista<E extends Comparable<E>> implements StrukturaPodataka<E> {
 
     private Lista<E> sledeci;
 
-    public Lista(E element) {
+    private Lista(E element) {
         this.element = element;
     }
 
