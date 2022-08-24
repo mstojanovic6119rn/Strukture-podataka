@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'11'
+-sourcepath
+'/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'strukture-podataka 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'strukture-podataka 1.0-SNAPSHOT API'
+com.mihajlo.strukturepodataka.primeri
+com.mihajlo.strukturepodataka
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/src/main/java = 1661343324391
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/constant-values.html = 1661346724060
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/index.html = 1661346724128
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/allclasses-index.html = 1661346724120
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/script.js = 1661346724132
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/overview-tree.html = 1661346724092
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/allpackages-index.html = 1661346724120
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/element-list = 1661346724044
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/overview-summary.html = 1661346724128
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/package-search-index.zip = 1661346724112
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/stylesheet.css = 1661346724128
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/index-all.html = 1661346724116
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/search.js = 1661346724132
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/member-search-index.js = 1661346724116
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/type-search-index.js = 1661346724112
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/package-search-index.js = 1661346724108
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/member-search-index.zip = 1661346724116
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/allclasses.html = 1661346724124
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/deprecated-list.html = 1661346724124
+/home/mstojanovic2000/Desktop/Java Libs/Strukture podataka/target/site/apidocs/type-search-index.zip = 1661346724116

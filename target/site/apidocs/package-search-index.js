@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mihajlo.strukturepodataka"},{"l":"com.mihajlo.strukturepodataka.primeri"}]

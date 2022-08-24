@@ -39,6 +39,11 @@ class Stablo<E extends Comparable<E>> implements StrukturaPodataka<E> {
 
     @Override
     public int velicina() {
-        return 0;
+        int velicina = 1;
+        if (this.levo != null)
+            velicina += this.levo.velicina();
+        if (this.desno != null)
+            velicina += this.desno.velicina();
+        return velicina;
     }
 }
